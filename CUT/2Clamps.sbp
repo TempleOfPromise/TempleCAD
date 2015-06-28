@@ -1,5 +1,9 @@
 '2Clamps
+<<<<<<< HEAD
 'File created: Monday, June 15, 2015 - 12:54 PM
+=======
+'File created: Monday, June 15, 2015 - 12:53 PM
+>>>>>>> origin/master
 'SHOPBOT FILE IN INCHES
 IF %(25)=1 THEN GOTO UNIT_ERROR	'check to see software is set to standard
 C#,90				 	'Lookup offset values
